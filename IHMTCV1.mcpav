@@ -1,49 +1,12 @@
 [DEVICE]
 Name=ATMEGA64
 Clock=14000000
-[FILES]
-File0=IHMTCV1_0.c
-Count=1
-[BINARIES]
-Count=0
-[IMAGES]
-Count=0
-ActiveImageIndex=0
-[OPENED_FILES]
-File0=IHMTCV1_0.c
-Count=1
-[EEPROM]
-Count=0
-[ACTIVE_COMMENTS_FILES]
-Count=0
-[OTHER_FILES]
-Count=0
-[SEARCH_PATH]
-Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\
-Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
-Path2=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
-Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
-Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
-Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
-Count=6
-[HEADER_PATH]
-Count=0
-[HEADERS]
-Count=0
-[PLDS]
-Count=0
-[Useses]
-File0=Conversions
-File1=C_String
-File2=Lcd
-File3=Lcd_Constants
-Count=4
 [MEMORY_MODEL]
 Value=0
 [BUILD_TYPE]
 Value=0
 [ACTIVE_TAB]
-Value=
+Value=IHMTCV1_0.c
 [USE_EEPROM]
 Value=0
 [USE_HEAP]
@@ -54,6 +17,60 @@ Value=0
 Value=
 [BOOT_TYPE]
 Value=0
+[FILES]
+File0=IHMTCV1_0.c
+Count=1
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+File0=IHMTCV1_0.c
+Count=1
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path2=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path3=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path4=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=5
+[HEADER_PATH]
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\
+Path1=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\
+Path2=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\
+Path3=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\
+Path4=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\
+Count=5
+[HEADERS]
+Count=0
+[PLDS]
+Count=0
+[Useses]
+File0=C_String
+File1=Lcd
+File2=Lcd_Constants
+File3=Button
+File4=FT812_Defs_LTE
+File5=C_Math
+File6=C_Stdlib
+File7=C_Type
+File8=EEPROM
+File9=Mmc_Fat16_Config
+File10=PrintOut
+File11=SPI_Glcd
+File12=Sprinti
+File13=Sprintl
+File14=Time
+File15=Conversions
+File16=Sprintf
+Count=17
 [EXPANDED_NODES]
 0=IHMTCV1.mcpav
 Count=1

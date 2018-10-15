@@ -1,11 +1,11 @@
-0	1	mikrocAVR.exe -MSF -DBG -pATMEGA64 -DL -SSA -O11111114 -fo14 -N"C:\Users\italo.francis\Desktop\IHMTC\IHMTCV1.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -SP"C:\Users\italo.francis\Desktop\IHMTC\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -IP"C:\Users\italo.francis\Desktop\IHMTC\" "IHMTCV1_0.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA64 -DL -SSA -O11111114 -fo14 -N"C:\Users\italo.francis\Desktop\IHMTCV1.0\IHMTCV1.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -SP"C:\Users\italo.francis\Desktop\IHMTCV1.0\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -IP"C:\Users\italo.francis\Desktop\IHMTCV1.0\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\" "IHMTCV1_0.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_PrintOut.mcl" "__Lib_Time.mcl" "__Lib_Button.mcl" "__Lib_EEPROM_eew.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_MmcFat16Constants.mcl" "__Lib_SPIGlcd.mcl" "__Lib_FT812_Defs_LTE.mcl"	 
 diagnostics: 0	122	Compilation Started	IHMTCV1_0.c
-diagnostics: 413	123	Compiled Successfully	IHMTCV1_0.c
-diagnostics: 0	127	All files Compiled in 172 ms	 
-hint: 0	1144	Used RX (bytes): 20 (62%)   Free RX (bytes): 12 (38%)	Used RX (bytes): 20 (62%)   Free RX (bytes): 12 (38%)
-hint: 0	1144	Static RAM (bytes): 419   Dynamic RAM (bytes): 3677	Static RAM (bytes): 419   Dynamic RAM (bytes): 3677
-hint: 0	1144	Used ROM (bytes): 5374 (8%)  Free ROM (bytes): 60162 (92%)	Used ROM (bytes): 5374 (8%)  Free ROM (bytes): 60162 (92%)
+diagnostics: 805	123	Compiled Successfully	IHMTCV1_0.c
+diagnostics: 0	127	All files Compiled in 422 ms	 
+hint: 0	1144	Used RX (bytes): 21 (66%)   Free RX (bytes): 11 (34%)	Used RX (bytes): 21 (66%)   Free RX (bytes): 11 (34%)
+hint: 0	1144	Static RAM (bytes): 562   Dynamic RAM (bytes): 3534	Static RAM (bytes): 562   Dynamic RAM (bytes): 3534
+hint: 0	1144	Used ROM (bytes): 8193 (13%)  Free ROM (bytes): 57343 (87%)	Used ROM (bytes): 8193 (13%)  Free ROM (bytes): 57343 (87%)
 diagnostics: 0	125	Project Linked Successfully	IHMTCV1.mcpav
-diagnostics: 0	128	Linked in 47 ms	 
-diagnostics: 0	129	Project 'IHMTCV1.mcpav' completed: 266 ms	 
-diagnostics: 0	103	Finished successfully: 15 set 2018, 10:42:43	IHMTCV1.mcpav
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'IHMTCV1.mcpav' completed: 578 ms	 
+diagnostics: 0	103	Finished successfully: 15 out 2018, 17:59:22	IHMTCV1.mcpav

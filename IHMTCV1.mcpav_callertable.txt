@@ -10,6 +10,8 @@ main
 		Lcd_Cmd
 		Lcd_Chr_CP
 			Lcd_Cmd
+	Button
+		Delay_500us
 	IntToStr
 		WordToStr
 			Div_16x16_U
