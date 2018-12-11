@@ -1,18 +1,32 @@
 main
-	Lcd_Init
-		Delay_5500us
-		Delay_1us
-	Lcd_Cmd
-		Delay_1us
-		Delay_5500us
-		Delay_50us
-	Lcd_Out
+	msgInicializacao
+		Lcd_Init
+			Delay_5500us
+			Delay_1us
 		Lcd_Cmd
-		Lcd_Chr_CP
+			Delay_1us
+			Delay_5500us
+			Delay_50us
+		Lcd_Out
 			Lcd_Cmd
+			Lcd_Chr_CP
+				Lcd_Cmd
 	Button
 		Delay_500us
+	Lcd_Cmd
+	Lcd_Out
+	msgExecutar
+		Lcd_Cmd
+		Lcd_Out
+	msgExecutando
+		Lcd_Cmd
+		Lcd_Out
+	iljiCompleto
 	IntToStr
 		WordToStr
 			Div_16x16_U
+	iljinCaboControle
+	iljinIHM
+	iljinIO
+	celescIO
 	__CC2DW

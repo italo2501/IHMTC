@@ -1,11 +1,19 @@
 0	1	mikrocAVR.exe -MSF -DBG -pATMEGA64 -DL -SSA -O11111114 -fo14 -N"C:\Users\italo.francis\Desktop\IHMTCV1.0\IHMTCV1.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -SP"C:\Users\italo.francis\Desktop\IHMTCV1.0\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\lte64kw\" -IP"C:\Users\italo.francis\Desktop\IHMTCV1.0\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FAT32 Library\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT800\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT810\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Packages\FT812\Uses\" "IHMTCV1_0.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_PrintOut.mcl" "__Lib_Time.mcl" "__Lib_Button.mcl" "__Lib_EEPROM_eew.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_MmcFat16Constants.mcl" "__Lib_SPIGlcd.mcl" "__Lib_FT812_Defs_LTE.mcl"	 
 diagnostics: 0	122	Compilation Started	IHMTCV1_0.c
-diagnostics: 805	123	Compiled Successfully	IHMTCV1_0.c
-diagnostics: 0	127	All files Compiled in 422 ms	 
-hint: 0	1144	Used RX (bytes): 21 (66%)   Free RX (bytes): 11 (34%)	Used RX (bytes): 21 (66%)   Free RX (bytes): 11 (34%)
-hint: 0	1144	Static RAM (bytes): 562   Dynamic RAM (bytes): 3534	Static RAM (bytes): 562   Dynamic RAM (bytes): 3534
-hint: 0	1144	Used ROM (bytes): 8193 (13%)  Free ROM (bytes): 57343 (87%)	Used ROM (bytes): 8193 (13%)  Free ROM (bytes): 57343 (87%)
+warning: 359	1506	Implicit conversion of pointer to int	iljin_0.h
+warning: 441	1506	Implicit conversion of pointer to int	iljin_0.h
+warning: 520	1506	Implicit conversion of pointer to int	iljin_0.h
+warning: 710	1506	Implicit conversion of pointer to int	iljin_0.h
+warning: 126	1506	Implicit conversion of pointer to int	celesc.h
+warning: 22	1506	Implicit conversion of pointer to int	teste.h
+diagnostics: 472	123	Compiled Successfully	IHMTCV1_0.c
+hint: 227	1164	Variable 'numVias' has been eliminated by optimizer	IHMTCV1_0.c
+hint: 292	1164	Variable 'numVias' has been eliminated by optimizer	IHMTCV1_0.c
+diagnostics: 0	127	All files Compiled in 344 ms	 
+hint: 0	1144	Used RX (bytes): 24 (75%)   Free RX (bytes): 8 (25%)	Used RX (bytes): 24 (75%)   Free RX (bytes): 8 (25%)
+hint: 0	1144	Static RAM (bytes): 780   Dynamic RAM (bytes): 3316	Static RAM (bytes): 780   Dynamic RAM (bytes): 3316
+hint: 0	1144	Used ROM (bytes): 13757 (21%)  Free ROM (bytes): 51779 (79%)	Used ROM (bytes): 13757 (21%)  Free ROM (bytes): 51779 (79%)
 diagnostics: 0	125	Project Linked Successfully	IHMTCV1.mcpav
-diagnostics: 0	128	Linked in 110 ms	 
-diagnostics: 0	129	Project 'IHMTCV1.mcpav' completed: 578 ms	 
-diagnostics: 0	103	Finished successfully: 15 out 2018, 17:59:22	IHMTCV1.mcpav
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'IHMTCV1.mcpav' completed: 516 ms	 
+diagnostics: 0	103	Finished successfully: 11 dez 2018, 13:43:15	IHMTCV1.mcpav

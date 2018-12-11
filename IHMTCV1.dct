@@ -1212,6 +1212,9 @@ mpcm0
 mpcm0_bit
 mpcm1
 mpcm1_bit
+msgexecutando
+msgexecutar
+msginicializacao
 mstr
 mstr_bit
 mul_16x16
